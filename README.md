@@ -1,4 +1,31 @@
-# Celebrity Baby Names
+
+## Project Title
+
+Baby Names and Culture Popularity
+
+## Tools
+
+R, Python
+
+## The Question of Interest
+
+Do popular figures in American society shape the baby naming landscape?
+
+## Description
+
+The relationships between the names of presidents, Disney characters, sports MVPs, movie characters and baby names were explored. 
+
+## My Role
+
+Explore the relationship between baby names and names of movie characters. 
+
+## Finding 
+
+Obvious spikes of baby names were observed for Forrest, Jack, Luke, and Anakin after the releases of Forrest Gump (1994), Titanic (1997), Star Wars Episodes (1977 - 2015). 
+
+# Previous Comments of the Full Project
+
+## Celebrity Baby Names
 
 **Modified for Assignment due 5/1/16**
 
@@ -23,7 +50,7 @@ The data was cleaned and integrated with characters and cast information from IM
 [The Dataset for Disney Movies](http://www.imdb.com/list/ls053518863/?start=1&view=compact&sort=listorian:asc&defaults=1)
 	
 	
-# The Questions:
+## The Questions:
 
 1)Does the approval rating of a President influence the rate of babies named after them?
 
@@ -34,7 +61,7 @@ The data was cleaned and integrated with characters and cast information from IM
 4)Does Disney Character's names influence the popularity of babies named after the film's release?
 
 
-# Instructions for executing your code
+## Instructions for executing your code
 
 **Presidential Approval**
 
